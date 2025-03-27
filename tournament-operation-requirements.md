@@ -10,29 +10,33 @@ For any questions or exception requests, contact csgoteamfeedback@valvesoftware.
 
 ## Tournament Operating Requirements
 
-The following rules shall apply to all Counter Strike 2 Tournament(s) that conclude after December 31, 2024.
+The following rules shall apply to all Counter Strike 2 Tournament(s). The version of the Tournament Operation Requirements that apply to a Tournament is [the version that was current](https://github.com/ValveSoftware/counter-strike_rules_and_regs/commits/main/tournament-operation-requirements.md) as of the Tournament's Additional Information deadline.
 
 ### 1. Definitions
 
-1.1 **"Valve Regional Standings"** or **"VRS"** shall mean the official system for ranking the performance of Rosters published by Valve, which is provided in a version calculated and published on a monthly basis that shall be the basis for Direct VRS Invites.
+1.1 **"Valve Regional Standings"** or **"VRS"** shall mean the official system for ranking the performance of Rosters published by Valve, which is published monthly and shall be the basis for Direct VRS Invites. For avoidance of doubt, the only versions relevant to this document are provided in [counter-strike_regional_standings/invitation](https://github.com/ValveSoftware/counter-strike_regional_standings/tree/main/invitation)
 
 1.2 **"Roster"** shall be a collection of five specific Athletes, irrespective of their current or later association with a given Team organization.
 
-1.3 **"Qualified Roster(s)"** shall mean any Roster that has been selected to appear in the Tournament in accordance with the procedures defined herein.
+1.3 **"Invited Roster(s)"** shall mean any Roster that has been invited to appear in the Tournament in accordance with the procedures defined herein.
 
-1.4 **"Direct VRS Invite"** shall mean a method of selecting Qualified Rosters from the VRS.
+1.4 **"Participating Roster(s)"** shall mean the five Athletes that participate in the Tournament in accordance with the procedures defined herein.
 
-1.5 **"Ranked Tournament"** shall mean a Tournament for which the outcome generates data used by the Valve Regional Standings to determine the relative performance of Rosters.
+1.5 **"Direct VRS Invite"** shall mean a method of selecting Rosters from the VRS.
 
-1.6 **"Unranked Tournament"** shall mean a Tournament for which the outcome does not generate data used by the Valve Regional Standings to determine the relative performance of Rosters.
+1.6 **"Ranked Tournament"** shall mean a Tournament for which the outcome generates data used by the Valve Regional Standings to determine the relative performance of Rosters.
 
-1.7 **"Main Stage"** shall mean the stage of a Tournament past which no Rosters enter (i.e., Rosters are only eliminated past this point).
+1.7 **"Unranked Tournament"** shall mean a Tournament for which the outcome does not generate data used by the Valve Regional Standings to determine the relative performance of Rosters.
 
-1.8 **"Open Qualifier"** shall mean a stage of the Tournament that is open to the public.
+1.8 **"Main Stage"** shall mean the stage of a Tournament past which no Rosters enter (i.e., Rosters are only eliminated past this point).
 
-1.9 **"Announcement Date"** shall mean the date on which a Tournament is announced to the public.
+1.9 **"Open Qualifier"** shall mean a stage of the Tournament that is open to the public.
 
-1.10 **"Invite Date"** shall be the date on which the invitations to Rosters for a given Tournament are being sent out.
+1.10 **"Announcement Date"** shall mean the date on which a Tournament is announced to the public.
+
+1.11 **"Invite Date"** shall be the date on which the invitations to Rosters for a given Tournament are being sent out.
+
+1.12 **"Tournament Dates"** shall mean the entire period of the Tournament, spanning from its start date to its end date, and includes all days during which Rosters could be required to be present (e.g., for matches, media, meetings, or other Tournament-related activities).
 
 
 
@@ -60,14 +64,20 @@ If Tournament Operator defines a Tournament as a Ranked Tournament, then the fol
 
 3.2.2 Tournament Operator must invite a minimum of two Rosters from any single VRS list.
 
-3.2.3 Tournament Operator must use the most recent version of the Invitation VRS (counter-strike_regional_standings\invitation\), as of the Invite Date.
+3.2.3 Tournament Operator must use the most recent version of the VRS, as of the Invite Date.
 
 3.2.4 Tournament Operator must invite Rosters sequentially, starting with the chosen starting VRS rank.
 
-3.2.5 Directly invited VRS Rosters may only accept an invitation for a Tournament if at least three of the Athletes on Roster were also present on the Roster on the Invite Date. 
- 
-3.2.6 If any Rosters cannot accept, or choose to decline the Direct VRS Invite, Tournament Operator shall proceed down the VRS in order until all announced slots to the Tournament are filled. 
- 
+3.2.5 Directly invited VRS Rosters may only accept an invitation for a Tournament if:
+
+a) At least three of the Participating Roster's Athletes were on the Invited Roster on the Invite Date.
+
+b) The Participating Roster satisfies the invite criteria (e.g. regional, demographic, etc).
+
+c) The Roster has not previously declined an invitation to the same Tournament.
+
+3.2.6 If any Rosters cannot accept, or choose to decline the Direct VRS Invite, Tournament Operator shall proceed down the VRS in order until all announced slots to the Tournament are filled.
+
 3.2.7 In the event that there are fewer eligible VRS rosters than the number of announced Direct VRS Invites, the Tournament Operator may supplement with Open Qualifiers.
 
 
@@ -86,9 +96,10 @@ If Tournament Operator defines a Tournament as a Ranked Tournament, then the fol
 
 3.4.2 A Directly Invited VRS Roster cannot start at a later stage than another Directly Invited VRS Roster with a higher VRS Rank.
 
-3.4.3 For the purposes of seeding within a stage, Tournament Operator will use the Global VRS rank if available.
+3.4.3 Rosters without a Global VRS rank cannot be seeded higher than VRS Ranked Rosters.
 
-3.4.4 Rosters without a Global VRS rank cannot be seeded higher than VRS Ranked Rosters.
+3.4.4 Initial seeding will use the version of the VRS that was specified in the Additional Information announcement.
+
 
 
 3.5 **Open Qualifiers.** 
@@ -101,11 +112,11 @@ For Open Qualifiers, Tournament Operator can use any criteria that in good faith
 
 3.6.1 For every 8 Rosters invited from a VRS, 2 eligible Rosters ("**Wildcard Invite**") can be invited to the Tournament. 
 
-3.6.2 If Tournament Operator chooses not to make use of previously announced Wildcard Invitations, they may invite the next highest ranked Rosters from the VRS lists already announced for the Tournament.
+3.6.2 If Tournament Operator chooses not to make use of previously announced Wildcard invitations, they may invite the next highest ranked Rosters from the VRS lists already announced for the Tournament.
 
-3.6.3 A Roster shall only be eligible for a Wildcard Invite if it fulfills at least one of the following requirements as of the Invitation Date:
+3.6.3 A Roster shall only be eligible for a Wildcard Invite if it is ranked lower than 12 on the Global VRS list and it fulfills at least one of the following requirements as of the Invitation Date:
 
-a) It includes at least 3 players who individually were members of a top 8 Roster on an Invite VRS List at any time during the preceding 6 months.
+a) It includes at least 3 players who individually were members of a top 12 Roster on an Invite VRS List at any time during the preceding 6 months.
 
 b) It has placed first or second place in any Tournament, of equal or lesser tier than the one issuing the invite, during the preceding 6 months.
 
@@ -117,7 +128,7 @@ If the Tournament Operator defines the Tournament as a "Tier 1" Tournament then 
 
 3.7.1 Tournament Operator must invite from one or more of the official VRS lists: Global, Americas, Europe, Asia.
 
-3.7.2 The Tournament must invite a minimum of 16 Rosters by Direct VRS Invite.
+3.7.2 The Tournament must invite a minimum of 20 Rosters by Direct VRS Invite.
 
 3.7.3 The list of invited Rosters always starts with the Roster that has the top VRS rank (i.e., the #1 Roster) at the time of the Invite Date. 
 
@@ -137,9 +148,7 @@ If Tournament Operator defines a Tournament as a Tier 2 Tournament, the followin
 
 3.8.3 Tournament Operator may apply additional filters to the VRS lists (e.g., "North America") insofar as they do not lead to the specific targeting of individual Teams or Rosters. For the avoidance of doubt, filtering by country or gender is permitted.
 
-3.8.4 If Tournament Operator decides to include Direct VRS Invites from an unfiltered VRS list, the VRS rank of the invited Rosters must be no better than 9. 
-
-3.8.5 If Tournament Operator decides to include Direct VRS Invites from a filtered version of the VRS, the VRS rank of the invited Rosters may begin at 1 and the number of invited Rosters must be at least 8. A filtering of a VRS list must be meaningful--a filtering that produces a list that is nearly identical to the unfiltered one is not to be considered 'filtered' for this purpose.
+3.8.4 The VRS rank of the invited Rosters must be lower than 12 on the Global VRS at the time of the Invite Date.
 
 
 3.9 **Wildcard Tournaments.** For every three completed Tournaments, Tournament Operator may operate one Wildcard Tournament of equivalent or lesser Tier. If Tournament Operator defines a Tournament as a Wildcard Tournament, the following rules shall apply:
@@ -165,7 +174,7 @@ If Tournament Operator defines a Tournament as a Tier 2 Tournament, the followin
   	- The Invite Date must follow the announcement of Additional Information by no fewer than 60 days. 
 
 - For Tournaments starting after 31 December, 2026:
-  	- The Announcement Date must be at least 24 months prior to the start of the Tournament's main event
+  	- The Announcement Date must be at least 22 months prior to the start of the Tournament's main event
   	- The Invite Date must follow the announcement of Additional Information by no fewer than 6 months.
 
 For Tier 2 Tournaments that include Direct VRS Invites the following rules apply:
@@ -175,9 +184,9 @@ For Tier 2 Tournaments that include Direct VRS Invites the following rules apply
 For Tier 2 Tournaments that do not have any direct VRS invites the following Rules apply:
   - The Announcement Date must be at least two weeks before the start of the Tournament's main event.
 
-4.2 **Basic Information.** For all types of Tournaments, Tournament Operator shall publish at least the dates and the identity of the operator of the Tournament.
+4.2 **Basic Information.** For all types of Tournaments, on the Announcement Date, Tournament Operator shall publish the Tournament Dates and the identity of the Tournament Operator.
 
-4.3 **Additional** **Information.** Tournament Operator shall publish the following additional information no later than 12 months before the Tournament main event for Tier 1 and Wildcard Tournaments, no later than 2 months before the Tournament main event of Tier 2 Tournaments that feature VRS invitations, and no later than two weeks before the Tournament main event of Tier 2 Tournament that do not feature any VRS invitations:
+4.3 **Additional** **Information.** Tournament Operator shall publish the following additional information no later than 10 months before the Tournament main event for Tier 1 and Wildcard Tournaments, no later than 2 months before the Tournament main event of Tier 2 Tournaments that feature VRS invitations, and no later than two weeks before the Tournament main event of Tier 2 Tournament that do not feature any VRS invitations:
 
 - A definition of the filters to the VRS (if any) that Direct VRS Invites will be based on.
 
@@ -189,7 +198,9 @@ For Tier 2 Tournaments that do not have any direct VRS invites the following Rul
 
 - The VRS publication date from which Direct VRS Invites will be issued.
 
-- The broader geographical region where the Tournament takes place, e.g., North America, West Europe, Southeast Asia, etc.
+- The VRS publication date which will be used for seeding.
+
+- The visa region where the Tournament takes place, e.g., USA, Schengen, China, etc.
 
 - Whether an Open Qualifier will be part of the Tournament and if so, the rules for such an Open Qualifier.
 
@@ -202,17 +213,19 @@ For Tier 2 Tournaments that do not have any direct VRS invites the following Rul
 
 ### 5. Competition / Integrity.
 
-5.1 **Non-Exclusivity**. Tournament Operator undertakes not to engage in direct or indirect agreements with Athletes or Teams that would artificially restrict such Athletes\' or Teams\' ability to take part in third-party Tournaments. Tournament Operator is free to restrict a Team\'s or Roster's participation in a third-party Tournament while the affected Team or Roster is on location at a Tournament\'s LAN event, including days without matches.
+5.1 **Non-Exclusivity**. Tournament Operator undertakes not to engage in direct or indirect agreements with Teams, Rosters, or Athletes ("Participants") that would artificially restrict their ability to take part in other Tournaments. Tournament Operator is free to restrict a Participant's participation in other Tournaments while the affected Participant is on location at a Tournament\'s LAN event and within the published date boundaries of the Tournament.
 
-5.2 **Non-Discriminatory Treatment of Teams.** Any agreement between Tournament Operator and Teams or Athletes needs to be non-discriminatory and identical for all Teams or Athletes. In particular, if Tournament Operator is going to share revenue or otherwise provide financial support, then such support must be equivalent for all Rosters or otherwise determined by an objective kpi that is applied equally to all Rosters, including Rosters that have been directly invited, qualified or entered through a Wildcard Invite determined before Rosters are selected. Such support must be accessible by all participating Rosters, determined by the Rosters' performance in the Tournament, another objective merit-based kpi related to the Tournament, e.g. viewership numbers of matches involving the respective Team, Roster or Athlete, or by the Roster's VRS ranking on the Invitation Date.
+5.2 **Non-Discriminatory Treatment of Participants.** Any agreement between Tournament Operator and Participant needs to be non-discriminatory and identical for all Participants. In particular, if Tournament Operator is going to share revenue or otherwise provide financial support, then such support must be equivalent for all Participants or otherwise determined by an objective KPI that is applied equally to all Participants, including Participants that have been directly invited, qualified or entered through a Wildcard Invite determined before Participants are selected. Such support must be accessible by all Participants, determined by the Participant's performance in the Tournament or another objective merit-based KPI related to the Tournament (e.g. viewership numbers of matches involving the respective Participant or by the Roster's VRS ranking on the Invitation Date). 
 
-5.3 **Potential Conflicts of Interest.** Tournament Operator and Tournament staff may not have any business relationship, including, but not limited to, shared management, shared ownership of entities, licensing, and loans, whether related to Valve Games or otherwise (each an "**Entanglement**") with any participating Team or Athletes unless approved by Valve. An Entanglement is considered approved if (a) it is disclosed to Valve in writing and (b) Valve has not objected to within 90 days of the disclosure; provided that only disclosures after the Effective Date of the Agreement shall trigger the 90 days period.
+5.2.1 Regardless of any agreements between Tournament Operator and Participants that pertain to compensation, all Participants of the same stage of the Tournament shall receive equal treatment in all aspects of the event. This includes but is not limited to: accommodations, allowances, venue access, privileges, practice facilities, preparation time, and technical support. Provisions for Participants must be identical in quality, duration, and availability.
+
+5.3 **Potential Conflicts of Interest.** Tournament Operator and Tournament staff may not have any business relationship, including, but not limited to, shared management, shared ownership of entities, licensing, and loans, whether related to Valve Games or otherwise (each an "**Entanglement**") with any Participant unless approved by Valve and publicly disclosed. An Entanglement is considered approved if (a) it is disclosed to Valve in writing and (b) publicly disclosed and (c) Valve has not objected to within 90 days of the disclosure to Valve; provided that only disclosures after the Effective Date of the Agreement shall trigger the 90 days period.
 
 Within its sole discretion, Valve reserves the right to a) require that Tournament Operator address and remove the Entanglement within a reasonable period of time, not to exceed two weeks, or b) terminate the Agreement without cost or penalty for Valve.
 
 An explicit or implicit approval by Valve shall be valid for the duration of one year starting on the date that Valve has received disclosure, unless explicitly otherwise scoped by Valve when granting the approval. The approval period shall thereafter auto-renew by the same time it was initially granted until terminated.
 
-5.4 **Invite Exceptions.** Tournament Operator may have rules that disqualify certain individuals from participating in their Tournaments due to misconduct, cheating infractions, being flagged by esports bodies as a matchmaking fix risk, or other integrity or compliance issues. If the Tournament Operator wishes to disqualify any Rosters, they must:
+5.4 **Invite Exceptions.** Tournament Operator may have rules that disqualify certain Participants from their Tournaments due to misconduct, cheating infractions, being flagged by esports bodies as a matchmaking fix risk, or other integrity or compliance issues. If the Tournament Operator wishes to disqualify any Participant, they must:
 
 - Publish the disqualification rules as part of **Additional Information**.
 
