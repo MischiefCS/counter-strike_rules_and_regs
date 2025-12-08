@@ -4,13 +4,15 @@ Counter-Strike is at its best when teams compete on a level playing field and wh
 
 Briefly, these rules limit the ability to directly invite teams to tournaments, enforce transparency in compensation, and define the types of tournaments we will consider in our official ranking system.
 
-If you're interested in running a Counter-Strike tournament you will need a license from Valve. In many cases the Limited Game Tournament License (https://store.steampowered.com/tourney/limited_license) will cover your tournament. However, if you want to operate at a scale that exceeds the limited license, you must contact Valve to obtain a broader license.
+If you're interested in running a Counter-Strike tournament you will need a license from Valve. In many cases the Limited Game Tournament License (https://store.steampowered.com/tourney/) will cover your tournament. However, if you want to operate at a scale that exceeds the limited license, you must contact Valve to obtain a broader license.
 
 For any questions or exception requests, contact csgoteamfeedback@valvesoftware.com, subject: "tournament operation requirements.”
 
 ## Tournament Operating Requirements
 
 The following rules shall apply to all Counter Strike 2 Tournament(s). The version of the Tournament Operation Requirements that apply to a Tournament is [the version that was current](https://github.com/ValveSoftware/counter-strike_rules_and_regs/commits/main/tournament-operation-requirements.md) as of the Tournament's Additional Information deadline.
+
+Irrespective of whether the Tournament is Ranked or Unranked, all Tournament Operators must abide by 2.4.e of the [Limited Game Tournament License](https://store.steampowered.com/tourney/), which relates to displaying content that violates Valve IP or the Steam Subscriber Agreement.
 
 ### 1. Definitions
 
