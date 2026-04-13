@@ -4,13 +4,15 @@ Counter-Strike is at its best when teams compete on a level playing field and wh
 
 Briefly, these rules limit the ability to directly invite teams to tournaments, enforce transparency in compensation, and define the types of tournaments we will consider in our official ranking system.
 
-If you're interested in running a Counter-Strike tournament you will need a license from Valve. In many cases the Limited Game Tournament License (https://store.steampowered.com/tourney/limited_license) will cover your tournament. However, if you want to operate at a scale that exceeds the limited license, you must contact Valve to obtain a broader license.
+If you're interested in running a Counter-Strike tournament you will need a license from Valve. In many cases the Limited Game Tournament License (https://store.steampowered.com/tourney/) will cover your tournament. However, if you want to operate at a scale that exceeds the limited license, you must contact Valve to obtain a broader license.
 
 For any questions or exception requests, contact csgoteamfeedback@valvesoftware.com, subject: "tournament operation requirements.”
 
 ## Tournament Operating Requirements
 
 The following rules shall apply to all Counter Strike 2 Tournament(s). The version of the Tournament Operation Requirements that apply to a Tournament is [the version that was current](https://github.com/ValveSoftware/counter-strike_rules_and_regs/commits/main/tournament-operation-requirements.md) as of the Tournament's Additional Information deadline.
+
+Irrespective of whether the Tournament is Ranked or Unranked, all Tournament Operators must abide by 2.4.e of the [Limited Game Tournament License](https://store.steampowered.com/tourney/), which relates to displaying content that violates Valve IP or the Steam Subscriber Agreement.
 
 ### 1. Definitions
 
@@ -58,6 +60,7 @@ If Tournament Operator defines a Tournament as a Ranked Tournament, then the fol
 
 3.1 **License.** Tournament Operator must comply with the terms of the Limited Game Tournament License ([https://store.steampowered.com/tourney/limited_license](https://store.steampowered.com/tourney/limited_license)).
 
+
 3.2 **Invites.**
 
 3.2.1 Tournament Operator chooses the VRS list or lists, and for each list, the number of Rosters to invite and the VRS ranks from which to start the invitations.
@@ -70,7 +73,7 @@ If Tournament Operator defines a Tournament as a Ranked Tournament, then the fol
 
 3.2.5 Directly invited VRS Rosters may only accept an invitation for a Tournament if:
 
-a) At least three of the Participating Roster's Athletes were on the Invited Roster on the Invite Date.
+a) At least three of the Participating Roster's Athletes were on the Invited Roster on the Invite Date and will play in each event match.
 
 b) The Participating Roster satisfies the invite criteria (e.g. regional, demographic, etc).
 
@@ -80,6 +83,11 @@ c) The Roster has not previously declined an invitation to the same Tournament.
 
 3.2.7 In the event that there are fewer eligible VRS rosters than the number of announced Direct VRS Invites, the Tournament Operator may supplement with Open Qualifiers.
 
+3.2.8 For compensation determined by final standing (e.g., prize pools):
+
+a) The compensation for a given standing cannot exceed the compensation for any higher standing ( e.g., a qualifier cannot award a prize that is greater than any main event prize).
+
+b) The compensation for a given standing must be equivalent to the compensation for all equal standings (e.g., all prizes for identical placement in parallel matches, such as different qualifiers, must be identical).
 
 3.3 **VRS Subdivision**
 
@@ -87,7 +95,7 @@ c) The Roster has not previously declined an invitation to the same Tournament.
 
 3.3.2 Tournament Operator may subdivide Asia VRS invitations equally between Oceania, West Asia, and East Asia.
 
-3.3.3 If Tournament Operator subdivides a VRS region in this way, Rosters must have majority citizenship in the relevant subregion.
+3.3.3 If Tournament Operator subdivides a VRS region in this way, Rosters must have a plurality of citizenships from the relevant subregion (among the players from the region).
 
 
 3.4 **VRS Priority.**
@@ -101,11 +109,9 @@ c) The Roster has not previously declined an invitation to the same Tournament.
 3.4.4 Initial seeding will use the version of the VRS that was specified in the Additional Information announcement.
 
 
-
 3.5 **Open Qualifiers.** 
 
 For Open Qualifiers, Tournament Operator can use any criteria that in good faith are reasonable and transparent, and do not specifically target individual Rosters. Acceptable criteria include demographics and region (e.g. \"Female Rosters based in Canada\").
-
 
 
 3.6 **Wildcard Invite.** 
@@ -121,7 +127,6 @@ a) It includes at least 3 players who individually were members of a top 12 Rost
 b) It has placed first or second place in any Tournament, of equal or lesser tier than the one issuing the invite, during the preceding 6 months.
 
 
-
 3.7 **Tier 1 Tournaments.** 
 
 If the Tournament Operator defines the Tournament as a "Tier 1" Tournament then the following rules shall apply:
@@ -135,7 +140,6 @@ If the Tournament Operator defines the Tournament as a "Tier 1" Tournament then 
 3.7.4 The Main Stage must feature a minimum of 8 Rosters.
 
 3.7.5 Tournament Operator may additionally include Open Qualifiers.
-
 
 
 3.8 **Tier 2 Tournaments.** 
@@ -159,6 +163,10 @@ If Tournament Operator defines a Tournament as a Tier 2 Tournament, the followin
 
 3.9.3 Tournament Operator may additionally invite from the VRS or include Open Qualifiers.
 
+
+3.10 **Additional Rules**
+
+3.10.1 Tournament Operator will declare a forfeit in any match in which a roster does not field at least three of the Invited Roster Athletes for the entirety of the match. 
 
 
 ### 4. Announcements and Publication of Tournament Information.
@@ -186,7 +194,17 @@ For Tier 2 Tournaments that do not have any direct VRS invites the following Rul
 
 4.2 **Basic Information.** For all types of Tournaments, on the Announcement Date, Tournament Operator shall publish the Tournament Dates and the identity of the Tournament Operator.
 
-4.3 **Additional** **Information.** Tournament Operator shall publish the following additional information no later than 10 months before the Tournament main event for Tier 1 and Wildcard Tournaments, no later than 2 months before the Tournament main event of Tier 2 Tournaments that feature VRS invitations, and no later than two weeks before the Tournament main event of Tier 2 Tournament that do not feature any VRS invitations:
+4.3 **Additional Information.** 
+
+4.3.1 Tournament Operator shall publish the following additional information no later than the earliest of the following dates: 
+
+a) Tier 1 and Tier 1 Wildcard Tournaments: 10 months before the Tournament main event or two weeks prior to any Open Qualifier
+
+b) Tier 2 Tournaments that feature VRS invitations and Tier 2 Wildcard Tournaments: two months before the Tournament main event or two weeks prior to any Open Qualifier
+
+c) Tier 2 Tournament that do not feature any VRS invitations: two weeks before the Tournament main event or two weeks prior to any qualifier, and there needs to be at least one week between announcement and registration
+
+4.3.2 The Additional Information shall include:
 
 - A definition of the filters to the VRS (if any) that Direct VRS Invites will be based on.
 
@@ -208,8 +226,13 @@ For Tier 2 Tournaments that do not have any direct VRS invites the following Rul
 
 - The prize pool and the rules for its distribution. To the degree that Tournament Operator compensates Teams, Rosters or Athletes for appearing at Tournaments in any other way (e.g. guaranteed payments for appearances, revenue shares in sponsorships or media rights etc.), Tournament Operator will publish comprehensive information of all such compensation.
   
-- Any integrity or conduct rules that may disqualify a Roster from a Direct VRS Invite.
+- Any integrity or conduct rules that disqualify a Roster from a Direct VRS Invite. Disqualification rules cannot be selectively applied at the discretion of the Tournament Operator. They must be transparent, based exclusively on specific objective criteria, and applied irrespective of the affected Roster or circumstances surrounding the Tournament.
   
+4.4 **Verifiability of Data**
+
+- Any published information must be published on a platform that does not allow modification of past posts (e.g., X.com), preserves version history (e.g., Github.com), or it must be preserved on an independent archiving platform (e.g., Internet Archive's Wayback Machine).
+- If the event has "first-come-first-served" registration, then rosters' registration time and order needs to be publicly inspectable (e.g. Google form registration that posts to a view-only publicly visible sheet that contains timestamps.)
+
 
 ### 5. Competition / Integrity.
 
